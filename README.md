@@ -7,17 +7,23 @@
   </a>
 
   <p><b>Professional WhatsApp Session ID Generator by LavvorStudio</b></p>
+
+  <p align="center">
+    <a href="https://vercel.com/new/clone?repository-url=https://github.com/Lavvordev/Today-Session"><img src="https://vercel.com/button" alt="Deploy to Vercel" height="32"></a>
+    <a href="https://heroku.com/deploy?template=https://github.com/Lavvordev/Today-Session"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" height="32"></a>
+    <a href="https://render.com/deploy"><img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render" height="32"></a>
+    <a href="https://railway.app/new/import?template=https://github.com/Lavvordev/Today-Session"><img src="https://railway.app/button.svg" alt="Deploy on Railway" height="32"></a>
+  </p>
 </div>
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Lavvordev/Today-Session)
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lavvordev/Today-Session)
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/import?template=https://github.com/Lavvordev/Today-Session)
+<div align="center">
 
 [![GitHub stars](https://img.shields.io/github/stars/Lavvordev/Today-Session?style=social)](https://github.com/Lavvordev/Today-Session/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Lavvordev/Today-Session?style=social)](https://github.com/Lavvordev/Today-Session/network)
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 [![Node Version](https://img.shields.io/badge/node-%3E%3D20.0.0-brightgreen)](https://nodejs.org/)
+
+</div>
 
 ---
 
