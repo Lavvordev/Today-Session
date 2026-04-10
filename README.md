@@ -13,8 +13,8 @@
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lavvordev/Today-Session)
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
 
-[![GitHub stars](https://img.shields.io/github/stars/LavvorStudio/Today-Session?style=social)](https://github.com/Lavvordev/Today-Session/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/LavvorStudio/Today-Session?style=social)](https://github.com/Lavvordev/Today-Session/network)
+[![GitHub stars](https://img.shields.io/github/stars/Lavvordev/Today-Session?style=social)](https://github.com/Lavvordev/Today-Session/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Lavvordev/Today-Session?style=social)](https://github.com/Lavvordev/Today-Session/network)
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 [![Node Version](https://img.shields.io/badge/node-%3E%3D20.0.0-brightgreen)](https://nodejs.org/)
 
