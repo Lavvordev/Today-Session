@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.postimg.cc/cCxcnwFt/todaysession.png" width="120" height="120" alt="Today Session Logo">
+  <img src="https://i.postimg.cc/cCxcnwFt/todaysession.png" width="1200" height="400" alt="Today Session Logo">
   <h1>✨ TODAY SESSION ✨</h1>
   
   <a href="https://git.io/typing-svg">
