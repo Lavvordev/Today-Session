@@ -1,7 +1,23 @@
 /**
-TODAY-SESSION - QR ROUTE (WITH BUTTONS)
+============================================================================
+@project Today-Session
+@title WhatsApp Session ID Generator
 @author LavvorStudio
+@copyright 2026 LavvorStudio. All rights reserved.
 @version 1.0.0
+@date 09 April 2026
+@license MIT
+@repository https://github.com/Lavvordev/Today-Session
+============================================================================
+Generate WhatsApp Session IDs, QR, Pairing Code
+One File Customization, Easy Deploy, Fast Setup
+============================================================================
+@note This software is property of LavvorStudio
+@note Developers can use this for their own bot projects
+@note But claiming as your own or removing credits is prohibited
+@note You may modify and customize for personal use
+@note Commercial use requires prior permission
+============================================================================
 */
 import express from 'express';
 import fs from 'fs-extra';
@@ -136,7 +152,6 @@ router.get('/', async (req, res) => {
                             title: `✨ ${config.webName.toUpperCase()} ✨`,
                             text: `✅ *Session Generated Successfully!*\n\n📌 *Session ID:*\n\`${fullSession}\`\n\n💡 Click below to copy or visit links`,
                             footer: `👨‍💻 By: ${config.companyName}`,
-                            aimode: false,
                             buttons: [
                                 {
                                     name: 'cta_copy',
