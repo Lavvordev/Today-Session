@@ -10,7 +10,7 @@
 @repository https://github.com/Lavvordev/Today-Session
 ============================================================================
 Generate WhatsApp Session IDs, QR, Pairing Code
-One File Customization, Easy Deploy, Fast Setup
+One File Customization, Easy Deploy, Fast setup
 ============================================================================
 @note This software is property of LavvorStudio
 @note Developers can use this for their own bot projects
@@ -39,3 +39,4 @@ export default defineConfig(({mode}) => {
     },
   };
 });
+
