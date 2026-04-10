@@ -54,14 +54,14 @@ Manage your entire application branding and behavior from a single file:
 
 ```ini
 webName=Today Session
-webLogoUrl=https://i.imgur.com/6I5qVqZ.png
+webLogoUrl=https://i.postimg.cc/wTHBDF5J/Today-Session-logo.png
 companyName=LavvorStudio
 companyTagline=Build apps, WhatsApp bots, and websites
 primaryColor=8B5CF6
 secondaryColor=14B8A6
 sessionPrefix=TODAY:~
 sessionMode=short
-githubRepo=https://github.com/LavvorStudio/Today-Session
+githubRepo=https://github.com/Lavvordev/Today-Session
 whatsappChannel=https://whatsapp.com/channel/0029VbBr866KLaHfX8d5y32z
 supportEmail=support@lavvorstudio.com
 privacyPolicyUrl=/privacy
@@ -125,8 +125,8 @@ Today-Session/
 
 **LavvorStudio**
 
-- GitHub: [@LavvorStudio](https://github.com/LavvorStudio)
-- Website: [LavvorStudio](https://lavvorstudio.com)
+- GitHub: [@LavvorStudio](https://github.com/Lavvordev)
+- Website not ative: [LavvorStudio](https://lavvorstudio.com)
 
 ---
 
