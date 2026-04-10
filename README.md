@@ -12,6 +12,7 @@
 [![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Lavvordev/Today-Session)
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lavvordev/Today-Session)
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/import?template=https://github.com/Lavvordev/Today-Session)
 
 [![GitHub stars](https://img.shields.io/github/stars/Lavvordev/Today-Session?style=social)](https://github.com/Lavvordev/Today-Session/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Lavvordev/Today-Session?style=social)](https://github.com/Lavvordev/Today-Session/network)
@@ -125,7 +126,7 @@ Today-Session/
 
 **LavvorStudio**
 
-- GitHub: [@LavvorStudio](https://github.com/Lavvordev)
+- GitHub: [@Lavvordev](https://github.com/Lavvordev)
 - Website not ative: [LavvorStudio](https://lavvorstudio.com)
 
 ---
