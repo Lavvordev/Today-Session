@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/6I5qVqZ.png" width="120" height="120" alt="Today Session Logo">
+  <img src="https://i.postimg.cc/cCxcnwFt/todaysession.png" width="120" height="120" alt="Today Session Logo">
   <h1>✨ TODAY SESSION ✨</h1>
   
   <a href="https://git.io/typing-svg">
@@ -40,7 +40,7 @@
 ## 📥 Installation
 
 ```bash
-git clone https://github.com/LavvorStudio/Today-Session.git
+git clone https://github.com/Lavvordev/Today-Session.git
 cd Today-Session
 npm install
 npm run dev
